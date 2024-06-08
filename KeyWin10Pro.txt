@@ -1,0 +1,3 @@
+GPNCB-WMYHC-FMBBF-K6JG8-XW3GY
+
+irm https://massgrave.dev/get | iex
